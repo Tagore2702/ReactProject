@@ -4,6 +4,7 @@ import { useParams } from 'react-router-dom'
 import { useEffect } from 'react'
 
 export default function EditDoctor() {
+    console.log("this is the edit doctor page") 
   const { id } = useParams()
 
   const [name, setName] = useState("")
