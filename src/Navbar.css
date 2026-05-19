@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:blue;
+    padding: 10px;
+    color:white
+}
+.navbar a{
+    color:aliceblue;
+    text-decoration: none;
+
+}   
